@@ -1,0 +1,8 @@
+{
+  "name": "Dr. Parikh's Pristine Dental Clinic",
+  "description": "Explore personalised dental care, clear aligners, root canal treatment, implants, smile care and family dentistry at Dr. Parikh’s Pristine Dental Clinic in Chandkheda, Ahmedabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
